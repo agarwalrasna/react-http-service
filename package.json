@@ -4,7 +4,7 @@
   "description": "http custom library",
   "author": "Rasana Agrawal",
   "license": "MIT",
-  "repository": "Rasana Agrawal/react-axios",
+  "repository": "https://github.com/agarwalrasna/react-http-service",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
